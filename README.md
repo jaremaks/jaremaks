@@ -10,7 +10,7 @@ LinkedIn: linkedin.com/in/jared-maosa-b82b02a0/
 I'm always open to discussing new opportunities, collaborations, or just chatting about all things web development. Don't hesitate to connect
 
 I am a web developer passionate about creating seamless user experiences through innovative design and cutting-edge technology. With expertise in Python, Django, HTML, CSS, Bootstrap, and WordPress, I thrive on solving complex challenges and staying ahead of industry trends. Currently expanding my skills in these areas, I am dedicated to deepening my understanding through online courses, tutorials, and hands-on projects. Additionally, I am exploring new advancements and best practices in web development to stay updated with the latest industry trends. My commitment to continuous learning fuels my passion for building innovative and impactful solutions.
-- ⚡ Fun fact: Fun Facts:
+Fun fact: Fun Facts:
 I'm involved in Kenya's tech startup scene, attending meetups and hackathons in Nairobi's Silicon Savannah.
 I enjoy aerial photography with drones, capturing Kenya's stunning landscapes.
 I'm an active member of Nairobi's tech community, collaborating on innovative projects.
